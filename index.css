@@ -42,10 +42,10 @@
       font-size: 1.2em;
     }
     .scrollable-div {
-        margin-top: 10vh;
+        margin-top: 5vh;
       }
       #menu_section{
-        height: 85vh;
+        height: 80vh;
       }
   }
   /* Container styles */
